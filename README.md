@@ -10,3 +10,14 @@
     </tr>
 </table>
 
+### Content:
+
+## Assignment-1:
+    
+- Data Visualisation on Chocalate Sales.
+
+- Datasheets.
+
+- Visualisation Pdf.
+
+
