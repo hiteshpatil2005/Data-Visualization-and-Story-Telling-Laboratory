@@ -21,11 +21,19 @@ Explore, modify, and create your own visualizations to unlock the potential of y
 
 <h2>Content:</h2>
 
-## Assignment-1:
+## Assignment-2:
     
 - Data Visualisation on Chocalate Sales.
 
 - Datasheets.
+
+- Visualisation Pdf.
+
+  ## Assignment-3:
+    
+- Data Visualisation on CSV Datasets.
+
+- Order and Details CSV Datasheets.
 
 - Visualisation Pdf.
 
