@@ -1,4 +1,4 @@
-<h1>Data Visualization And StoryTelling Assignments</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60">Data Visualization And StoryTelling Assignments<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60"></h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 📊 This repository showcases interactive Power BI dashboards, utilizing datasets in CSV, Excel, and various formats to deliver powerful data visualizations and insights. 🚀 It helps in analyzing trends, identifying patterns, and making data-driven decisions through dynamic and visually appealing reports. 📈✨
@@ -9,7 +9,7 @@ With customized reports for different use cases and industries, users can gain a
 
 Explore, modify, and create your own visualizations to unlock the potential of your data! 🚀
 
-<h2>Tool Used :</h2>
+<h2><img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/stats.gif" height="30"> Tool Used : </h2>
 <table>
     <tr>
         <td width="96">
